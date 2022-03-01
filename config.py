@@ -20,11 +20,11 @@ MUSIC_BOT_NAME = getenv("MUSIC_BOT_NAME")
 HEROKU_API_KEY = getenv("HEROKU_API_KEY")
 HEROKU_APP_NAME = getenv("HEROKU_APP_NAME")
 
-UPSTREAM_REPO = "https://github.com/Gameralpha/MYPERSONALEDIT"
+UPSTREAM_REPO = "https://github.com/Sunmusicking/MYPERSONALEDIT.git"
 UPSTREAM_BRANCH = "main"
 
-SUPPORT_CHANNEL = "https://t.me/Official_Devil_Network"
-SUPPORT_GROUP = "https://t.me/Official_Devil_Support"
+SUPPORT_CHANNEL = "https://t.me/KING_BIOz"
+SUPPORT_GROUP = "https://t.me/TAMIL_CHATBOX"
 
 THUMBNAIL = getenv("THUMB_LINK") 
 
